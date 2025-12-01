@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManasviMaity
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python,Computer Graphics
+- 👀 I’m interested in Data science, AI
+- 🌱 I’m currently pursuing Master of Computer Applications
 
 
 <!---

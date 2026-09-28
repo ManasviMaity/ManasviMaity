@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ManasviMaity
-- 👀 I’m interested in Data science, AI
+- 👋 Hi, I’m Manasvi Maity
+- 👀 I’m interested in Data science and  AI
 - 🌱 I’m currently pursuing Master of Computer Applications
 
 
